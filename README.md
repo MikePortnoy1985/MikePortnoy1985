@@ -10,7 +10,6 @@ My favorite technologies: <br/>
 My contacts: <br/>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikhail-temartsev-9898711b6) 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/MikePortnoy1985/) 
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=MikePortnoy1985 alt=MikePortnoy1985 /> </p>
